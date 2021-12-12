@@ -1,0 +1,27 @@
+﻿<local:ChildControl x:Class="Project_Management_App_2.Controls.Task_Control"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Project_Management_App_2.Controls"
+             mc:Ignorable="d" 
+             Width="685" Height="30">
+    <Border CornerRadius="20" Background="#723D46">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.1*"/>
+                <ColumnDefinition Width="0.3*"/>
+                <ColumnDefinition Width="0.6*"/>
+            </Grid.ColumnDefinitions>
+
+            <CheckBox x:Name="chkTaskDone" Grid.Column="0"
+                  BorderBrush="White" VerticalAlignment="Center" Margin="5 0 0 0" HorizontalAlignment="Center"
+                  Checked="chkTaskDone_Checked" Unchecked="chkTaskDone_Unchecked"/>
+            <TextBlock x:Name="txtTaskName" Grid.Column="1"
+                       Text="Task name" FontSize="20" FontWeight="Bold" FontFamily="Yu Gothic Light" Foreground="White"
+                       Padding="5 0" VerticalAlignment="Center"/>
+            <ProgressBar x:Name="prgsTaskBar" Grid.Column="2" Minimum="0" Maximum="100"
+                         Foreground="#FFE26D5C" Height="15" Width="390" BorderBrush="{x:Null}"  Style="{DynamicResource ProgressBarStyle_Custom}"/>
+        </Grid>
+    </Border>
+</local:ChildControl>

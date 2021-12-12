@@ -1,0 +1,25 @@
+﻿<local:ChildControl x:Class="Project_Management_App_2.Controls.Subtask_Control"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Project_Management_App_2.Controls"
+             mc:Ignorable="d" 
+             Width="685" Height="30">
+    <Border Background="#723D46" CornerRadius="20">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="0.1*"/>
+            </Grid.ColumnDefinitions>
+
+            <TextBlock x:Name="txtSubTaskName" Grid.Column="0"
+                       Text="SubTask name" FontSize="20" FontWeight="Bold" FontFamily="Yu Gothic Light" Foreground="White"
+                       Padding="15 0" VerticalAlignment="Center"/>
+
+            <CheckBox x:Name="chkSubTaskDone" Grid.Column="1"
+                  BorderBrush="White" VerticalAlignment="Center" HorizontalAlignment="Center" 
+                  Checked="chkSubTaskDone_Checked" Unchecked="chkSubTaskDone_Unchecked"/>
+        </Grid>
+    </Border>
+</local:ChildControl>

@@ -1,0 +1,53 @@
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Project Management App 2.csprojAssemblyReference.cache
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Controls\Project_Control.g.cs
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Controls\Subtask_Control.g.cs
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Controls\Task_Control.g.cs
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Pop-ups\delet_test.g.cs
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Pop-ups\Edit_Project_Popup.g.cs
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Pop-ups\Edit_Subtask_Popup.g.cs
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Pop-ups\Edit_Task_Popup.g.cs
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Pop-ups\Empty_Name_Error.g.cs
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Pop-ups\Add_Project_Screen.g.cs
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Pop-ups\Add_Subtask_Screen.g.cs
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Pop-ups\Add_Task_Screen.g.cs
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Windows\Current_Project_Screen.g.cs
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Windows\Current_Task_Screen.g.cs
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Windows\Starting_Screen.g.cs
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\App.g.cs
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Project Management App 2_Content.g.cs
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Project Management App 2_MarkupCompile.cache
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Project Management App 2_MarkupCompile.lref
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\bin\Debug\x86\e_sqlite3.dll
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\bin\Debug\x64\e_sqlite3.dll
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\bin\Debug\Project Management App 2.exe.config
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\bin\Debug\Project Management App 2.exe
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\bin\Debug\Project Management App 2.pdb
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\bin\Debug\SQLite-net.dll
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\bin\Debug\SQLitePCLRaw.batteries_green.dll
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\bin\Debug\SQLitePCLRaw.core.dll
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\bin\Debug\SQLite-net.xml
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\App.baml
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Controls\Project_Control.baml
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Controls\Subtask_Control.baml
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Controls\Task_Control.baml
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Pop-ups\delet_test.baml
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Pop-ups\Edit_Project_Popup.baml
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Pop-ups\Edit_Subtask_Popup.baml
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Pop-ups\Edit_Task_Popup.baml
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Pop-ups\Empty_Name_Error.baml
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Pop-ups\Add_Project_Screen.baml
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Pop-ups\Add_Subtask_Screen.baml
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Pop-ups\Add_Task_Screen.baml
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Windows\Current_Project_Screen.baml
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Windows\Current_Task_Screen.baml
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Windows\Starting_Screen.baml
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Project Management App 2.g.resources
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Project_Management_App_2.Properties.Resources.resources
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Project Management App 2.csproj.GenerateResource.cache
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Project Management App 2.csproj.CoreCompileInputs.cache
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Project Management App 2.csproj.CopyComplete
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Project Management App 2.exe
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\Project Management App 2.pdb

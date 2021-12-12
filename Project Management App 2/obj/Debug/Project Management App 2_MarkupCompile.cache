@@ -1,0 +1,20 @@
+﻿Project Management App 2
+
+
+winexe
+C#
+.cs
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\obj\Debug\
+Project_Management_App_2
+none
+false
+DEBUG;TRACE
+D:\Projects\Licenta\Project Management App 3\Project Management App 2\App.xaml
+14-1034374668
+2-1834044217
+221271285798
+122-661803326
+Controls\Project_Control.xaml;Controls\Subtask_Control.xaml;Controls\Task_Control.xaml;Pop-ups\delet_test.xaml;Pop-ups\Edit_Project_Popup.xaml;Pop-ups\Edit_Subtask_Popup.xaml;Pop-ups\Edit_Task_Popup.xaml;Pop-ups\Empty_Name_Error.xaml;Pop-ups\Add_Project_Screen.xaml;Pop-ups\Add_Subtask_Screen.xaml;Pop-ups\Add_Task_Screen.xaml;Windows\Current_Project_Screen.xaml;Windows\Current_Task_Screen.xaml;Windows\Starting_Screen.xaml;
+
+False
+

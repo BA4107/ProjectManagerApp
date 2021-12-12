@@ -1,0 +1,27 @@
+﻿<Window x:Class="Project_Management_App_2.Pop_ups.Empty_Name_Error"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project_Management_App_2.Pop_ups"
+        mc:Ignorable="d"
+        Height="70" Width="450"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        Background="Transparent"
+        AllowsTransparency="True">
+    <Border Background="#472D30" CornerRadius="15">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.6*"/>
+                <RowDefinition Height="0.4*"/>
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="0" Text="Please don't leave the name of this object empty." 
+                   Foreground="White" FontFamily="Yu Gothic Light" FontSize="18"
+                   VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            <Button Grid.Row="1" x:Name="btnOK"
+                Content="Ok" Foreground="White" Background="#E26D5C" BorderBrush="#E26D5C" FontFamily="Yu Gothic Light"
+                HorizontalAlignment="Right" Width="93" Margin="0,0,36,5" Click="btnOK_Click" />
+        </Grid>
+    </Border>
+</Window>
